@@ -13,7 +13,9 @@ app.use(cors());
 app.set("views", path.join(__dirname, "/views"));
 
 mongoose
-  .connect("mongodb://127.0.0.1:27017/VirtualTreasureHunt")
+  .connect(
+    "mongodb+srv://XArchenon:rmQysps59bNiQbrf@treasurehunt.lik4hzz.mongodb.net/?retryWrites=true&w=majority"
+  )
   .then(() => console.log("Connected to database successfully!"))
   .catch((err) => console.log(`Error: ${err}`));
 
