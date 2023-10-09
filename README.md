@@ -1,7 +1,7 @@
 
 # Virtual Treasure Hunt Backend
 
-The backend code of the game "Virtual Treasure Hunt" conducted as a solo tech event for intra-college department function AEGIS, conducted by department of Electonics and Instrumentation, GCT.
+The backend code of the game "Virtual Treasure Hunt" conducted as a solo tech event for intra-college department function AEGIS, conducted by department of Electonics and Instrumentation Engineering, GCT.
 
 ## Installation and Running locally
 
